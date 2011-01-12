@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/38/prototype-1/trunk/app/rte
+END
+rte-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/147/prototype-1/trunk/app/rte/rte-impl.h
+END
+rte-subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/prototype-1/trunk/app/rte/rte-subscribe.h
+END
+rte-marshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/147/prototype-1/trunk/app/rte/rte-marshal.c
+END
+rte.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/prototype-1/trunk/app/rte/rte.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/prototype-1/trunk/app/rte/list.h
+END
+rte-publish.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/prototype-1/trunk/app/rte/rte-publish.h
+END
+proximity.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/prototype-1/trunk/app/rte/proximity.c
+END
+rte-marshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/147/prototype-1/trunk/app/rte/rte-marshal.h
+END
+event-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/prototype-1/trunk/app/rte/event-types.h
+END
+proximity.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/prototype-1/trunk/app/rte/proximity.h
+END
+rte.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/147/prototype-1/trunk/app/rte/rte.c
+END

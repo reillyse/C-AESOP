@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/122/prototype-1/trunk/app/dummy-sear
+END
+dummy-sear.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/146/prototype-1/trunk/app/dummy-sear/dummy-sear.c
+END
+dummy-sear-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/146/prototype-1/trunk/app/dummy-sear/dummy-sear-impl.h
+END
+dummy-sear.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/146/prototype-1/trunk/app/dummy-sear/dummy-sear.h
+END
